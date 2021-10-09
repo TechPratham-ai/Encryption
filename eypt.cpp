@@ -1,4 +1,4 @@
-include<stdlib.h>
+#include<stdlib.h>
 #include<curses.h>
 #include <iostream>
 using namespace std;
